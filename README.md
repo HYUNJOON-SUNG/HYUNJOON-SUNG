@@ -43,13 +43,5 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYUNJOON-SUNG&theme=react-dark&bg_color=ffffff&color=003399&line=003399&point=333" width="100%" />
-</p>
-
----
-
 ## ✉️ Contact
 * **Gmail** | tjdguswns1941@gachon.ac.kr
