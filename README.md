@@ -50,7 +50,7 @@
 ### 🏆 Hackathon Projects
 * **홍대병동 (10th NE-O-RDINARY THON)** [🔗 Repo](https://github.com/neordinary-team-o/NE-O-RDINARY_THON-team-o-BE)
     * **Period**: 2026.05
-    * **Description**: 음악을 검색하고 나만의 DIG를 기록 및 공유하는 음악 큐레이션 서비스
+    * **Description**: 비주류 음악을 발굴하고 기록하며, 시간이 지나며 해당 음악이 얼마나 성장했는지 확인할 수 있는 음악 큐레이션 서비스
     * **Role**: Backend Developer
 
 ---
