@@ -7,7 +7,7 @@
 * **Gachon University** | Dept. of Computer Engineering (2021.03 ~ ing)
 * **WFK IT Volunteer Corps** | Overseas IT Volunteer (2025.08)
 * **Leets 6th** | Campus IT Club (2025.09 ~ 2026.02)
-* **UMC 10th** | University IT Club, Spring Boot Part (2026.03 ~ ing)
+* **UMC 10th** | University IT Club, Spring Boot Senior Course (2026.03 ~ ing)
 
 
 ---
@@ -35,11 +35,11 @@
     * **Role**: Backend Developer
 * **MoniFit (소비습관 관리 서비스)** [🔗 Repo](https://github.com/Leets-Official/MoniFit-BE)
     * **Period**: 2025.12 ~ 2026.02
-    * **Description**: 건강한 소비 습관 형성을 돕는 자산 관리 서비스
+    * **Description**: 사용자 중심의 목표 예산 관리 및 지출 분석 기능을 제공하는 서비스
     * **Role**: Backend Developer
 * **After-Buy (전자제품 보증기간 관리 서비스)** [🔗 Org](https://github.com/After-Buy)
-    * **Period**: 2026.03 ~ ing
-    * **Description**: 전자제품의 구매 정보와 보증기간을 등록해 사후 관리를 돕는 서비스
+    * **Period**: 2026.03 ~ 2026.06
+    * **Description**: MSA 기반으로 전자제품의 구매 정보와 보증기간을 관리하고, OCR과 알림을 통해 사후 관리를 돕는 서비스
     * **Role**: Cloud & Infrastructure Engineer
 
 ### 👤 Solo Projects
