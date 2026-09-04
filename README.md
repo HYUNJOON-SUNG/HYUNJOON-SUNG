@@ -7,7 +7,8 @@
 * **Gachon University** | Dept. of Computer Engineering (2021.03 ~ ing)
 * **WFK IT Volunteer Corps** | Overseas IT Volunteer (2025.08)
 * **Leets 6th** | Campus IT Club (2025.09 ~ 2026.02)
-* **UMC 10th** | University IT Club, Spring Boot Senior Course (2026.03 ~ ing)
+* **UMC 10th** | University IT Club, Spring Boot Senior Course (2026.03 ~ 2026.08)
+* **UMC 11th** | University IT Club, Vice President (2026.09 ~ ing)
 
 
 ---
@@ -41,6 +42,10 @@
     * **Period**: 2026.03 ~ 2026.06
     * **Description**: MSA 기반으로 전자제품의 구매 정보와 보증기간을 관리하고, OCR과 알림을 통해 사후 관리를 돕는 서비스
     * **Role**: Cloud & Infrastructure Engineer
+* **I Pill Good (개인 맞춤 영양제 추천 서비스)** [🔗 Repo](https://github.com/UMC-I-Pill-Good/IPillGood-server)
+    * **Period**: 2026.06 ~ 2026.08
+    * **Description**: 개인 건강 정보와 컨디션을 기반으로 AI 맞춤 영양제를 추천하고, 복용 기록 및 알림을 통해 꾸준한 영양제 섭취를 돕는 서비스
+    * **Role**: Backend Developer
 
 ### 👤 Solo Projects
 * **Gachon Dorm Matching (기숙사 매칭 플랫폼)** [🔗 Repo](https://github.com/HYUNJOON-SUNG/Gachon-Dorm-matching)
@@ -51,6 +56,10 @@
 * **홍대병동 (10th NE-O-RDINARY THON)** [🔗 Repo](https://github.com/neordinary-team-o/NE-O-RDINARY_THON-team-o-BE)
     * **Period**: 2026.05
     * **Description**: 비주류 음악을 발굴하고 기록하며, 시간이 지나며 해당 음악이 얼마나 성장했는지 확인할 수 있는 음악 큐레이션 서비스
+    * **Role**: Backend Developer
+* **계란주의보 (Gachon UMC Long-term Hackathon)** [🔗 Repo](https://github.com/UMC10th-hackathon-team-B/UMC10th-hackathon-team-B-BE)
+    * **Period**: 2026.06
+    * **Description**: 현재 위치의 날씨와 자외선 지수를 기반으로 외출 세션과 선크림 도포 상태를 관리하고 맞춤형 알림을 제공하는 서비스
     * **Role**: Backend Developer
 
 ---
